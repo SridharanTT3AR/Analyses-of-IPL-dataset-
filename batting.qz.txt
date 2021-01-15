@@ -1,0 +1,149 @@
+POS	PLAYER	Mat	Inns	NO	Runs	HS	Avg	BF	SR	100	50	4s	6s	Team
+Virat Kohli	177	169	26	5412	113	37.84	4,112	131.61	5	36	480	190	Royal Challengers Bangalore
+
+Suresh Raina	193	189	28	5368	100*	33.34	3,914	137.14	1	38	493	194	Chennai Super Kings
+ 
+Rohit Sharma	188	183	28	4898	109*	31.60	3,744	130.82	1	36	431	194	Mumbai Indians
+ 
+David Warner	126	126	17	4706	126	43.17	3,305	142.39	4	44	458	181	Sunrisers Hyderabad
+ 
+Shikhar Dhawan	159	158	21	4579	97*	33.42	3,669	124.80	0	37	524	96	Delhi Capitals
+ 
+Chris Gayle	125	124	15	4484	175*	41.13	2,969	151.02	6	28	369	326	Kings XI Punjab
+ 
+MS Dhoni	190	170	65	4432	84*	42.20	3,215	137.85	0	23	297	209	Chennai Super Kings
+ 
+Robin Uthappa	177	170	17	4411	87	28.83	3,380	130.50	0	24	435	156	Rajasthan Royals
+ 
+AB de Villiers	154	142	32	4395	133*	39.95	2,906	151.23	3	33	357	212	Royal Challengers Bangalore
+ 
+Gautam Gambhir	154	152	17	4217	93	31.23	3,404	123.88	0	36	491	59	Delhi Capitals
+ 
+Ajinkya Rahane	140	132	16	3820	105*	32.93	3,133	121.92	2	27	404	74	Delhi Capitals
+ 
+Dinesh Karthik	182	163	28	3654	97*	27.06	2,815	129.80	0	18	357	101	Kolkata Knight Riders
+ 
+Shane Watson	134	130	15	3575	117*	31.08	2,562	139.53	4	19	343	177	Chennai Super Kings
+ 
+Ambati Rayudu	147	140	25	3300	100*	28.69	2,620	125.95	1	18	278	120	Chennai Super Kings
+ 
+Yusuf Pathan	174	154	44	3204	100	29.12	2,241	142.97	1	13	262	158	Sunrisers Hyderabad
+
+BrendonMCullum	109	109	5	2880	158*	27.69	2,186	131.74	2	13	293	130	Royal Challengers Bangalore
+ 
+Parthiv Patel	139	137	11	2848	81	22.60	2,358	120.78	0	13	365	49	Royal Challengers Bangalore
+ 
+Manish Pandey	130	120	23	2843	114*	29.30	2,353	120.82	1	15	253	75	Sunrisers Hyderabad
+ 
+Kieron Pollard	148	135	39	2755	83	28.69	1,877	146.77	0	14	181	176	Mumbai Indians
+ 
+Yuvraj Singh	132	126	15	2750	83	24.77	2,120	129.71	0	13	217	149	Mumbai Indians
+ 
+Virender Sehwag	104	104	5	2728	122	27.55	1,755	155.44	2	16	334	106	Kings XI Punjab
+ 
+Murali Vijay	103	103	5	2587	127	26.39	2,106	122.83	2	13	243	91	Chennai Super Kings
+ 
+Shaun Marsh	71	69	7	2477	115	39.95	1,866	132.74	1	20	266	78	Kings XI Punjab
+ 
+Jacques Kallis	98	96	11	2427	89*	28.55	2,222	109.22	0	17	255	44	Kolkata Knight Riders
+
+Dwayne Smith	91	89	5	2385	87*	28.39	1,764	135.20	0	17	245	117	Gujarat Lions
+
+Sachin Tendulk	78	78	11	2334	100*	34.83	1,948	119.81	1	13	295	29	Mumbai Indians
+
+Sanju Samson	93	89	9	2209	102*	27.61	1,696	130.24	2	10	170	89	Rajasthan Royals
+
+Rahul Dravid	89	82	5	2174	75*	28.23	1,882	115.51	0	11	269	28	Rajasthan Royals
+
+Adam Gilchrist	80	80	4	2069	109*	27.22	1,495	138.39	2	11	239	92	Kings XI Punjab
+
+JP Duminy	83	77	26	2029	78*	39.78	1,636	124.02	0	14	126	79	Mumbai Indians
+
+Steve Smith	81	72	18	2022	101	37.44	1,568	128.95	1	8	180	49	Rajasthan Royals
+
+KL Rahul	67	58	11	1977	100*	42.06	1,431	138.15	1	16	176	81	Kings XI Punjab
+
+Michael Hussey	59	58	7	1977	116*	38.76	1,612	122.64	1	15	198	52	Chennai Super Kings
+
+Ravindra Jadej	170	128	48	1927	48	24.08	1,572	122.58	0	0	135	65	Chennai Super Kings
+
+Faf du Plessis	71	64	5	1853	96	31.40	1,462	126.74	0	12	163	59	Chennai Super Kings
+
+David Miller	79	77	23	1850	101*	34.25	1,333	138.78	1	9	126	87	Kings XI Punjab
+
+Mahela Jaya 	80	78	15	1802	110*	28.60	1,462	123.25	1	10	200	39	Delhi Capitals
+
+WriddhimanSaha	120	95	21	1765	115*	23.85	1,346	131.12	1	6	160	59	Sunrisers Hyderabad
+
+Aaron Finch	75	73	7	1737	88*	26.31	1,329	130.69	0	13	176	67	Royal Challengers Bangalore
+
+Rishabh Pant	54	54	6	1736	128*	36.16	1,067	162.69	1	11	152	94	Delhi Capitals
+
+Manoj Tiwary	98	85	26	1695	75*	28.72	1,449	116.97	0	7	156	40	Kings XI Punjab
+
+KumarSangak	71	68	3	1687	94	25.95	1,392	121.19	0	10	195	27	Sunrisers Hyderabad
+
+Shreyas Iyer	62	62	7	1681	96	30.56	1,324	126.96	0	13	149	67	Delhi Capitals
+
+Naman Ojha	113	94	19	1554	94*	20.72	1,313	118.35	0	6	121	79	Delhi Capitals
+
+SuryakumarYadv	85	71	16	1548	72	28.14	1,173	131.96	0	7	161	47	Mumbai Indians
+
+Mandeep Singh	97	84	15	1529	77*	22.15	1,226	124.71	0	5	160	33	Kings XI Punjab
+
+Dwayne Bravo	134	102	38	1483	70*	23.17	1,156	128.28	0	5	116	61	Chennai Super Kings
+
+Karun Nair	69	63	4	1464	83*	24.81	1,139	128.53	0	10	158	39	Kings XI Punjab
+
+Quinton de Kok 	50	50	2	1456	108	30.33	1,109	131.28	1	10	155	54	Mumbai Indians
+
+SubramaniamBad	95	67	20	1441	71*	30.65	1,212	118.89	0	11	154	28	Royal Challengers Bangalore
+
+Brad Hodge	66	63	21	1400	73	33.33	1,118	125.22	0	6	122	43	Rajasthan Royals
+
+Andre Russell	64	52	10	1400	88*	33.33	751	186.41	0	8	96	120	Kolkata Knight Riders
+
+Glenn Maxwell	69	68	7	1397	95	22.90	867	161.13	0	6	109	91	Kings XI Punjab
+
+Jos Buttler	45	45	6	1386	95*	35.53	919	150.81	0	9	140	61	Rajasthan Royals
+
+Sourav Ganguly	59	56	3	1349	91	25.45	1,263	106.80	0	7	137	42	Pune Warriors India
+
+David Hussey	64	61	12	1322	71	26.97	1,075	122.97	0	5	90	60	Chennai Super Kings
+
+Kane Williams	41	41	7	1302	89	38.29	964	135.06	0	12	111	44	Sunrisers Hyderabad
+	
+Chris Lynn	41	41	3	1280	93*	33.68	910	140.65	0	10	128	63	Mumbai Indians
+
+Saurabh Tiwary	81	64	19	1276	61	28.35	1,067	119.58	0	7	93	45	Mumbai Indians
+
+Mayank Agarwal	77	72	3	1266	68	18.34	988	128.13	0	5	117	52	Kings XI Punjab
+
+TillakaratneD	52	50	7	1153	76*	26.81	1,007	114.49	0	9	140	24	Royal Challengers Bangalore
+
+Irfan Pathan	103	82	29	1139	60	21.49	946	120.40	0	1	87	37	Gujarat Lions
+
+Matthew Hayden	32	32	2	1107	93	36.90	805	137.51	0	8	121	44	Chennai Super Kings
+
+Nitish Rana	46	41	4	1085	85*	29.32	806	134.61	0	8	84	60	Kolkata Knight Riders
+
+Kedar Jadhav	79	70	23	1079	69	22.95	853	126.49	0	4	92	38	Chennai Super Kings
+
+Lendl Simmons	29	29	2	1079	100*	39.96	852	126.64	1	11	109	44	Mumbai Indians
+
+Hardik Pandya	66	61	24	1068	91	28.86	690	154.78	0	3	72	68	Mumbai Indians
+
+Ross Taylor	55	54	14	1017	81*	25.42	822	123.72	0	3	66	46	Delhi Capitals
+
+Manan Vohra	49	45	2	1012	95	23.53	768	131.77	0	3	97	39	Rajasthan Royals
+
+Kevin Pieter	36	36	9	1001	103*	37.07	743	134.72	1	4	91	40	Rising Pune Supergiant
+
+Venugopal Rao	65	54	10	985	71*	22.38	836	117.82	0	3	77	37	Sunrisers Hyderabad
+
+Albie Morkel	91	68	28	974	73*	24.35	686	141.98	0	3	61	55	Rising Pune Supergiant
+
+Andrew Symonds	39	36	9	974	117*	36.07	750	129.86	1	5	74	41	Mumbai Indians
+
+Moises Henriks	57	50	16	969	74*	28.50	756	128.17	0	5	87	27	Kings XI Punjab
+
