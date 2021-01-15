@@ -5,7 +5,8 @@ Description of Dataset:
        IPL Dataset: The dataset consists of data from year 2008 to 2016. The league has 8 teams representing 8 different Indian states. The dataset consists of following columns
 'id', 'season', 'city', 'date', 'team1', 'team2', 'toss_winner','toss_decision', 'result', 'dl_applied', 'winner', 'win_by_runs','win_by_wickets', 'player_of_match','venue', 'umpire1', 'umpire2','umpire3'.
 
-      Batsman Dataset: The datset consists of the statistics of a player. The dataset consists of following columns: 'POS', 'PLAYER', 'Mat', 'Inns', 'NO', 'Runs', 'HS', 'Avg', 'BF', 'SR','100', '50', '4s', '6s', 'Team'.
+      Batsman Dataset: The datset consists of the statistics of a player. The dataset consists of following columns: 
+      'POS', 'PLAYER', 'Mat', 'Inns', 'NO', 'Runs', 'HS', 'Avg', 'BF', 'SR','100', '50', '4s', '6s', 'Team'.
 
 OBJECTIVE:
         Coded supervised regression algorithm to predict the strike rate of a given player and visualized the most valuable team and player.
