@@ -1,7 +1,7 @@
 # Analyses-of-IPL-dataset-
 
 
-Description of Dataset:
+DESCRIPTION:
        IPL Dataset: The dataset consists of data from year 2008 to 2016. The league has 8 teams representing 8 different Indian states. The dataset consists of following columns
 'id', 'season', 'city', 'date', 'team1', 'team2', 'toss_winner','toss_decision', 'result', 'dl_applied', 'winner', 'win_by_runs','win_by_wickets', 'player_of_match','venue', 'umpire1', 'umpire2','umpire3'.
        Batsman Dataset: The dataset consist of the statistics of a player. The dataset consists of the following columns:
@@ -9,7 +9,8 @@ Description of Dataset:
 
 OBJECTIVE:
         Coded supervised regression algorithm to predict the strike rate of a given player and visualized the most valuable team and player.
-        
+
+
 The data was read using pandas library. Performed data cleaning and data analysis using python, created data visualization using seaborn, matplotlib and drew conclusion from the result of visualization. Some main objective of the study were,
                         1) to find total matches played in each ground,
                         2) to find statistics between given two teams,
